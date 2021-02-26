@@ -1,7 +1,7 @@
 # HackerRank
 Solutions of [HackerRank](https://www.hackerrank.com/Anna_Hamberger) problems.
 
-* [Algorithms](## Algorithms)
+* [Algorithms](#Algorithms)
 
 ## Algorithms
 
