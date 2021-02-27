@@ -1,6 +1,8 @@
 # HackerRank
 Solutions of [HackerRank](https://www.hackerrank.com/Anna_Hamberger) problems.
-[Problems Solved]
+<p>
+	<img src="https://img.shields.io/badge/Problems%20Solved-20-brightgreen.svg">
+</p>
 
 * [Algorithms](#Algorithms)
 
@@ -30,5 +32,4 @@ Solutions of [HackerRank](https://www.hackerrank.com/Anna_Hamberger) problems.
 |Implementation|[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)|Easy|[bill-division.java](algorithms/Implementation/BillDivision.java)|
 
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-20-brightgreen.svg
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-201-brightgreen.svg
