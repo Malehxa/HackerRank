@@ -4,7 +4,6 @@ import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
-import static oracle.jrockit.jfr.events.Bits.intValue;
 
 // https://www.hackerrank.com/challenges/diagonal-difference/problem
 public class DiagonalDifference {
@@ -15,13 +14,13 @@ public class DiagonalDifference {
         int secSum = 0;
 
         for(int i = 0; i < arr.size(); i++){
-            firstSum = firstSum + intValue(arr.get(i).get(i));
+            firstSum = firstSum + arr.get(i).get(i);
         }
 
         int j = arr.size()-1;
 
         for(int i = 0; i < arr.size(); i++){
-            secSum = secSum + intValue(arr.get(i).get(j));
+            secSum = secSum + arr.get(i).get(j);
             j--;
         }
 
