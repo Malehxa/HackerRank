@@ -29,7 +29,8 @@ Solutions of [HackerRank](https://www.hackerrank.com/Anna_Hamberger) problems.
 |Implementation|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|Easy|[day-of-the-programmer.java](algorithms/Implementation/DayOfTheProgrammer.java)|
 |Implementation|[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)|Easy|[bill-division.java](algorithms/Implementation/BillDivision.java)|
 |Implementation|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[drawing-book.java](algorithms/Implementation/DrawingBook.java)|
+|Implementation|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[sales-by-match.java](algorithms/Implementation/SalesByMatch.java)|
 
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-21-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-211-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-22-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-221-brightgreen.svg
